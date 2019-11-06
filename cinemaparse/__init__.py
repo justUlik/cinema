@@ -1,1 +1,1 @@
-#it is for first commit
+from .core import CinemaParser
